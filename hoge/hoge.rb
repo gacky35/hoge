@@ -1,1 +1,2 @@
 p "piyo"
+puts "Hey"
